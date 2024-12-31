@@ -1,0 +1,3 @@
+[submodule "REST-API-with-Flask-2/jmgdo-microservices"]
+	path = REST-API-with-Flask-2/jmgdo-microservices
+	url = https://github.com/ibm-developer-skills-network/jmgdo-microservices.git
